@@ -1,0 +1,98 @@
+
+.foto{
+    margin-top: 50px;
+    margin-bottom: 20px;
+width: 150px;
+height: 150px;
+border-radius: 100px; 
+
+}
+
+.Name
+{
+    font-size: 25px;
+}
+
+.telephone{    
+    list-style-image:url(../images/Contact/telephone@1X.png) ; 
+   
+   }
+   .glob{
+    list-style-image: url(../images/Contact/globe@1X.png);
+   }
+ .pin{
+     list-style-image: url(../images/Contact/map\ pin@1X.png);
+ }
+
+ .bac{
+    background-image: url(../images/Divider.png);
+}
+ .portfolio{
+     margin-top: 45px;
+     margin-left: 10px;
+     list-style: none;
+     list-style-image:url(../images/icons/brief.png);
+     font-family: 'Montserrat', sans-serif;
+     
+ }
+p{
+     margin-top: 15px;
+    
+}
+img { 
+    float: left;
+    margin-top: 45px; 
+    margin-right: 20px;
+    margin-bottom: 30px;
+ }
+#interes li{ 
+    display:inline-block;  
+    text-align: center;
+    margin-left: -80px;
+    margin-right:90px;
+    list-style-type: none;
+      
+}
+
+ .flex{
+     display: flex;
+     flex-wrap: wrap;
+     max-width: 800px;
+     margin-left: -20px;
+	   
+ }
+ .item{
+     flex:1 1 calc(33.33% - 30px); 
+	margin:10px;
+	box-sizing:border-box; 
+	min-width:330px; 
+    min-height:50%;   
+	padding-top:25%; font-size:400%; text-align:center; background:#b5ced8;        
+    box-shadow: 0 0 3px;
+    display: flex;
+ }
+
+    
+.TextBlok
+ {    
+     flex:1 1 calc(33.33% - 30px);          
+     background-color:rgb(253, 253, 253);
+      
+ }
+
+ .Text1{
+    
+    font-size: 22px ;
+    color:#555fd6;
+    
+ }
+
+ .leftimg {
+    float:left; 
+    margin: 7px 7px 7px 0; 
+   }
+ 
+   footer{
+       height: 100px;
+   }
+
